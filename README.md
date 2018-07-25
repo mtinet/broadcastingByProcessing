@@ -6,5 +6,5 @@
 ### 2. 랜덤으로 만들어진 해당 수치를 클라이언트에 보냄  
 ### 3. 클라이언트는 해당 수치를 받아 화면에 색깔로 뿌림  
 
-## [소스코드](https://github.com/mtinet/broadcastingByProcessing)  
+## [소스코드](https://github.com/mtinet/broadcastingByProcessing/tree/master/code)  
 ![](https://github.com/mtinet/broadcastingByProcessing/blob/master/image/broadcasting.png?raw=true)  
